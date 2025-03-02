@@ -1,8 +1,10 @@
+import "../style/Footer.css"
+
 const Footer = () => {
     return (
         <div className="Footer">
             <div className="footerWrapper">
-                @WEBBISITY@
+                @ WEBBISITY @
             </div>
         </div>
     );
