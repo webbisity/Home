@@ -1,0 +1,10 @@
+.Footer {
+    display: flex;
+    width: 100%;
+    padding: 1rem;
+    text-align: center;
+}
+
+.Footer .footerWrapper {
+    text-align: center;
+}
