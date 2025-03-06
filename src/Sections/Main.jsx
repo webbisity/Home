@@ -8,16 +8,22 @@ const Main = () => {
                     <h1>Check out our templates</h1>
                     <div className="templates">
                         <div className="templateItem">
-                            <div className="template">Lab portfolio</div>
+                            <a className="template" target="_blank" href="https://webbisity.github.io/lab-template/">
+                                <p>Lab portfolio</p>
+                            </a>
                             <p className="description">Lab portfolio</p>
                         </div>
                         <div className="templateItem">
-                            <div className="template">Store</div>
-                            <p className="description">Store</p>
+                            <a className="template" target="_blank" href="https://webbisity.github.io/schedule-template/">
+                                <p>Schedule</p>
+                            </a>
+                            <p className="description">Schedule</p>
                         </div>
                         <div className="templateItem">
-                            <div className="template">Que managment</div>
-                            <p className="description">Que managment</p>
+                            <a className="template" target="_blank" href="https://webbisity.github.io/store-template/">
+                                <p>Store</p>
+                            </a>
+                            <p className="description">Store</p>
                         </div>
                     </div>
                 </div>
